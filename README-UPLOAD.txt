@@ -1,9 +1,12 @@
-Perry Advisory & Investigations — GitHub Pages Flat Package
+Perry Advisory & Investigations — Full Website Phone Update
 
-This package was rebuilt specifically to avoid missing CSS/image-folder problems.
+Business phone added: (508) 556-3075
 
-Upload EVERY file in this folder directly to the root of the GitHub repository.
-There is no assets folder to upload.
-Each HTML page contains its own styling, navigation script, approved logo, and approved portrait.
+Updates:
+- Clickable phone number in the footer on every page
+- Phone number added prominently to the Confidential Consultation page
+- Phone call option added to the lower homepage consultation/client-focus area
+- Telephone added to structured business metadata
+- Preserves the latest approved Worcester, Springfield, and Bourne Bridge banner treatments
 
-After upload, GitHub Pages should rebuild automatically.
+GitHub: upload all files in this folder to the ROOT of the existing perry-investigations repository and commit changes. Existing files with the same names should be replaced.
