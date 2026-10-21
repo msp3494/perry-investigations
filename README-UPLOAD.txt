@@ -1,12 +1,13 @@
-Perry Advisory & Investigations — Full Website Phone Update
+Perry Advisory & Investigations — 8-page website update
 
-Business phone added: (508) 556-3075
+New page: private-clients.html
+Homepage: new Who We Serve section links to Attorneys & Law Firms and Private Clients.
+Footer: now separates Practice Areas, Who We Serve, and Firm links.
+Phone: (508) 556-3075 remains clickable throughout the site.
 
-Updates:
-- Clickable phone number in the footer on every page
-- Phone number added prominently to the Confidential Consultation page
-- Phone call option added to the lower homepage consultation/client-focus area
-- Telephone added to structured business metadata
-- Preserves the latest approved Worcester, Springfield, and Bourne Bridge banner treatments
-
-GitHub: upload all files in this folder to the ROOT of the existing perry-investigations repository and commit changes. Existing files with the same names should be replaced.
+GitHub Pages update:
+1. Extract this ZIP.
+2. In the perry-investigations repository, choose Add file > Upload files.
+3. Upload all files from the extracted folder into the repository root.
+4. Commit changes.
+5. Wait for GitHub Pages to redeploy and hard-refresh the live site.
