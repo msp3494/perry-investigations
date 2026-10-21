@@ -1,0 +1,1 @@
+Upload these 6 files to the root of your GitHub repository and commit changes: investigations.html, security.html, intelligence.html, worcester.jpg, springfield.jpg, capecod.jpg. This update moves the imagery into the page banner/hero area and removes the extra on-image feature text section.
