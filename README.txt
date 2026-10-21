@@ -1,1 +1,1 @@
-Upload these 6 files to the root of your GitHub repository and commit changes: investigations.html, security.html, intelligence.html, worcester.jpg, springfield.jpg, capecod.jpg. This update moves the imagery into the page banner/hero area and removes the extra on-image feature text section.
+Upload ONLY security.html to the root of your GitHub repository and replace the existing file. This version uses the native 5,065 × 3,545 Wikimedia Springfield skyline image directly as the banner background, eliminating the stretched low-resolution local image.
